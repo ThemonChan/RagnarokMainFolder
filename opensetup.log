@@ -1,0 +1,20 @@
+== RO OpenSetup Log ============================================================
+[2013-10-04 10:44:39.734][Info] Logging started.
+[2013-10-04 10:44:39.734]  [Info] Version: 2.9.0.322 (built: 5223917e, linker: 6.0, subsystem: 4.0, checksum: 00060259)
+[2013-10-04 10:44:39.750]  [Info] Operating System: Microsoft Windows XP Service Pack 3 (5.1.2600, Windows NT platform, 32-bit)
+[2013-10-04 10:44:39.750]  [Info] Memory Utilization: 55%
+[2013-10-04 10:44:39.750]  [Info] Integrity Level: Unsupported
+[2013-10-04 10:44:39.750]  [Info] Command Line: "C:\Program Files\Gravity\ro\opensetup.exe" 
+[2013-10-04 10:44:40.093][Info] Enumerated 2 DX7 drivers.
+[2013-10-04 10:44:40.093]  [Info] Driver 'Primary Display Driver': 36 video modes (28 filtered), 1 hw devices, 1 sw devices
+[2013-10-04 10:44:40.093]  [Info] Driver 'Mobile Intel(R) 915GM/GMS,910GML Expres': 36 video modes (28 filtered), 1 hw devices, 1 sw devices
+[2013-10-04 10:44:40.156][Warning] Mirror video driver detected.
+[2013-10-04 10:44:40.250][Info] OnChangeSettingsEngine: LUA
+[2013-10-04 10:44:43.375][Info] LUA settings engine sanity check started.
+[2013-10-04 10:44:43.375]  [Info] Checking for 'System\LuaFiles514\OptionInfo.lub'...
+[2013-10-04 10:44:43.375]  [Info] Checking for 'System\OptionInfo.lub'...
+[2013-10-04 10:44:43.375]  [Error] No default settings file was found, your client won't be able to read settings.
+[2013-10-04 10:44:43.375]  [Info] Checking for 'savedata\OptionInfo.lub'...
+[2013-10-04 10:44:43.375][Info] LUA settings engine sanity check stopped.
+================================================================================
+
