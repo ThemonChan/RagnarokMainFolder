@@ -1,0 +1,19 @@
+====================================================================
+RagnarokOnline Patcher Lite (codename: RSU)
+(c) 2009-2012 Ai4rei/AN
+
+====================================================================
+
+== Distribution Layout File ========================================
+
+    /
+     -> rsu.exe         main patcher executable
+
+    /doc/
+     -> history.txt     changelog
+     -> layout.txt      description of distributed files
+     -> license.txt     well, the software license
+     -> plugins.txt     introduction to plug-ins
+     -> readme.txt      about, usage, requirements etc.
+
+====================================================================

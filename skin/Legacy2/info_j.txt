@@ -1,0 +1,49 @@
+【  タイトル  】 Ragnarok online用 skin 『 Legacy 』 
+		 
+【 バージョン 】 Patch 9 (2002/12/18)　 
+
+【 開発ソフト 】 SUPER KiD95(Zait)/Corel PHOTOPAINT8J/Corel Draw7J/Adobe Photoshop4j
+		 Skin Selector for Ragnarok Online/
+		 ROSkinViewer/
+
+【   Author   】 橘六角堂 （ソフトスタジオランタノイド） 
+
+【ホームページ】 http://www.geocities.co.jp/Milano-Aoyama/1189/ 
+		 http://home3.highway.ne.jp/ranta/kasumin/
+
+【 転載の可否 】 修正が多いのでファイル自体の転載はできません。紹介は歓迎です（＾＾ 
+		 SKinの改変、再配布はご遠慮下さい。	
+
+【　コメント　】 
+
+　ひたすらドットを打ちまくって、やっと完成！ 古代チックなSkinのLegacyです。
+　タブのアイコン化やJobLVのメモリなどなど…いろいろなSkin作家さんの影響を受けまくってます。
+　見どころはハネと太字とおなじみお供ポリン（＾＾
+
+
+　Patch03でベースウィンドウのフォントを変更しました。
+　旧バージョンの方が好みの方は、\append\basewin_old\のものと差し替えて下さい。
+
+
+　■アイテム欄のカスタマイズ■
+
+　\basic_interface\itemwin_mid.bmpを差し替えることで、アイテム欄の変更が可能です。
+　appendフォルダに数パターン収録してありますので、好みに合わせてカスタマイズしてください。
+
+
+　例：デフォルト(cross)を無地に変更する場合
+
+	\basic_interface\append\item_noneフォルダ内の　itemwin_mid.bmp　を
+	\basic_interface\　の　itemwin_mid.bmp　に上書きすればOKです。
+
+	appendフォルダにはいくつか差し替え画像が入ってますので、いろいろ試してみてください。　
+
+
+　	　　　　　　　　　　	　　	
+　※Skinの設定方法は公式HP等を参考になさって下さい。
+　※本ファイルを使用したことから生じるあらゆる損害について一切の責任を負いかねます。
+
+
+　たぶんお返事できないと思いますので、メールでのご質問、ご要望はご遠慮願います。m(_ _)m
+
+　Ragnarok Online (c)2001 Gravity Corp. & Lee Myoungjin
